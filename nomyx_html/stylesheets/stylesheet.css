@@ -48,12 +48,11 @@ table {
 
 /* LAYOUT STYLES */
 body {
-  font-size: 15px;
+  font-size: 12pt;
   line-height: 1.5; 
   background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   font-weight: 400;
-  color: #666;
 }
 
 a {
@@ -115,7 +114,7 @@ aside#sidebar {
   min-height: 504px;
   float: right;
   background: transparent url(../images/sidebar-bg.jpg) 0 0 no-repeat;
-  font-size: 12px;
+  font-size: 10pt;
   line-height: 1.3;
 }
 

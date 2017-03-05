@@ -1,0 +1,6 @@
+version: '2'
+services:
+  nomyx-website:
+    image: cdupont2/nomyx-website
+    ports:
+      - "80:80"
